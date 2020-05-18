@@ -8,7 +8,10 @@
 
 #### Consume
 
-- [The Free Currency Converter API](https://free.currencyconverterapi.com)
-- [http://currencyconverter.kowabunga.net/converter.asmx](http://currencyconverter.kowabunga.net/converter.asmx)
+- JSON, JSONP Callbacks
+    - [currencylayer API](https://currencylayer.com)
+        - [The Free Currency Converter API](https://free.currencyconverterapi.com)
+- HTML, SOAP XML
+    - [Converter](http://currencyconverter.kowabunga.net/converter.asmx)
 
 ## [Tooling](https://github.com/noud/cra-chartjs/blob/master/README_CRA.md)
