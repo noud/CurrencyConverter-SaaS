@@ -1,4 +1,4 @@
-# CurrencyConverter
+# CurrencyConverterSaaS
 
 ## [Specification](https://github.com/noud/cra-chartjs/blob/master/docs/VCN_Development_-_Assignment.pdf)
 
