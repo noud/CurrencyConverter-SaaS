@@ -24,4 +24,4 @@
 
 ## Tooling
 
-- [Laravel](https://github.com/noud/cra-chartjs/blob/master/README_Laravel.md)
+- [Laravel](https://github.com/noud/CurrencyConverterSaaS/blob/master/README_Laravel.md)
