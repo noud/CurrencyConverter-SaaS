@@ -1,6 +1,6 @@
 # CurrencyConverterSaaS
 
-## [Specification](https://github.com/noud/cra-chartjs/blob/master/docs/VCN_Development_-_Assignment.pdf)
+## [Specification](https://github.com/noud/CurrencyConverterSaaS/blob/master/docs/VCN_Development_-_Assignment.pdf)
 
 ### API endpoints
 
