@@ -10,7 +10,7 @@
 
 - [Laravel Currency Converter](https://danielmellum.com/projects/currency-converter)
     - HTML with [Laravel Exchange Rates](https://github.com/ash-jc-allen/laravel-exchange-rates)
-        - [Exchange rates API](http://exchangeratesapi.io) published by the [European Central Bank](https://www.ecb.europa.eu)
+        - [Exchange rates API](http://exchangeratesapi.io) published by the [European Central Bank (ECB)](https://www.ecb.europa.eu)
             - blogs
                 - [Laravel Exchange Rates API Package](https://laravel-news.com/laravel-exchange-rates-api-package)
                 - [How to use Laravel Exchange Rates API Package](https://vebcodex.com/how-to-use-laravel-exchange-rates-api-package)
