@@ -36,4 +36,4 @@
 
 ## Tooling
 
-- [Laravel](https://github.com/noud/CurrencyConverter-SaaS/blob/master/README_Laravel.md)
+- [Laravel](https://github.com/laravel/laravel/blob/master/README.md)
