@@ -1,4 +1,4 @@
-# CurrencyConverterSaaS
+# CurrencyConverter SaaS
 
 ## [Specification](https://github.com/noud/CurrencyConverterSaaS/blob/master/docs/VCN_Development_-_Assignment.pdf)
 
