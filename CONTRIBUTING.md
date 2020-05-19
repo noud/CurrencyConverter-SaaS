@@ -26,8 +26,8 @@ Start reading the code and you'll get the hang of it. The code is optimized for 
     * Functions and control structures must use Allman style braces.
     * Indent with tabs, align with spaces.
   * [PHP-FIG](https://www.php-fig.org)
-    * [PSR-1 ](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md)
-    * [PSR-0 ](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md)
+    * [PSR-1](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md)
+    * [PSR-0](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md)
 
 Thanks,
 Noud de Brouwer
