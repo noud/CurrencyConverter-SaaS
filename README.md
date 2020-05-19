@@ -1,6 +1,6 @@
 # 💱 CurrencyConverter SaaS
 
-## [Specification](https://github.com/noud/CurrencyConverterSaaS/blob/master/docs/VCN_Development_-_Assignment.pdf)
+## [Specification](https://github.com/noud/CurrencyConverter-SaaS/blob/master/docs/VCN_Development_-_Assignment.pdf)
 
 ### API endpoints
 
@@ -39,4 +39,4 @@
 
 ## Tooling
 
-- [Laravel](https://github.com/noud/CurrencyConverterSaaS/blob/master/README_Laravel.md)
+- [Laravel](https://github.com/noud/CurrencyConverter-SaaS/blob/master/README_Laravel.md)
