@@ -4,6 +4,8 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
+        <link rel="icon" href="{{ URL::asset('/favicon.ico') }}" type="image/x-icon"/>
+
         <title>Exchange Rate</title>
 
         <!-- Fonts -->
@@ -67,4 +69,4 @@
             </div>
         </div>
     </body>
-</html>sudo
+</html>

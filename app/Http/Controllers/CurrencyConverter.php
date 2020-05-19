@@ -20,4 +20,3 @@ class CurrencyConverter extends Controller
         return view("currency-converter", [ 'availabe_currencies' => ExchangeRate::currencies(), 'result' => [ "res" => $result,"from" => $request->from, "to" =>  $request->to,"amount" => $request->amount ]]);
     }
 }
-m

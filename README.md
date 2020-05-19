@@ -1,5 +1,7 @@
 # 💱 CurrencyConverter [SaaS](https://en.wikipedia.org/wiki/Software_as_a_service)
 
+![currency-converter](./docs/currency-converter.png?raw=true "currency-converter")
+
 ## [Specification](https://github.com/noud/CurrencyConverter-SaaS/blob/master/docs/VCN_Development_-_Assignment.pdf)
 
 ### API endpoints
@@ -10,7 +12,7 @@
 
 - [Laravel Currency Converter](https://danielmellum.com/projects/currency-converter)
     - JSON, JSONP Callbacks with [Laravel Swap](https://github.com/florianv/laravel-swap)
-    - HTML with [Laravel Exchange Rates](https://github.com/ash-jc-allen/laravel-exchange-rates) ([blog](https://laravel-news.com/laravel-exchange-rates-api-package) and [use](https://vebcodex.com/how-to-use-laravel-exchange-rates-api-package))
+    - HTML with [Laravel Exchange Rates](https://github.com/noud/currency_converter)
         - [European Central Bank (ECB)](https://www.ecb.europa.eu) [Exchange rates API](http://exchangeratesapi.io)
         - Central Bank of
             - [Czech Republic](https://www.cnb.cz)
@@ -37,3 +39,4 @@
 ## Tooling
 
 - [Laravel](https://github.com/laravel/laravel/blob/master/README.md)
+- [Emoji Favicons](https://favicon.io/emoji-favicons) [Currency Exchange](https://favicon.io/emoji-favicons/currency-exchange)
