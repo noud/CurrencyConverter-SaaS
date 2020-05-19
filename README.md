@@ -1,4 +1,4 @@
-# 💱 CurrencyConverter SaaS
+# 💱 CurrencyConverter [SaaS](https://en.wikipedia.org/wiki/Software_as_a_service)
 
 ## [Specification](https://github.com/noud/CurrencyConverter-SaaS/blob/master/docs/VCN_Development_-_Assignment.pdf)
 
@@ -10,18 +10,15 @@
 
 - [Laravel Currency Converter](https://danielmellum.com/projects/currency-converter)
     - JSON, JSONP Callbacks with [Laravel Swap](https://github.com/florianv/laravel-swap)
-    - HTML with [Laravel Exchange Rates](https://github.com/ash-jc-allen/laravel-exchange-rates)
+    - HTML with [Laravel Exchange Rates](https://github.com/ash-jc-allen/laravel-exchange-rates) ([blog](https://laravel-news.com/laravel-exchange-rates-api-package) and [use](https://vebcodex.com/how-to-use-laravel-exchange-rates-api-package))
         - [European Central Bank (ECB)](https://www.ecb.europa.eu) [Exchange rates API](http://exchangeratesapi.io)
-            - blogs
-                - [Laravel Exchange Rates API Package](https://laravel-news.com/laravel-exchange-rates-api-package)
-                - [How to use Laravel Exchange Rates API Package](https://vebcodex.com/how-to-use-laravel-exchange-rates-api-package)
         - Central Bank of
-            - [the Republic of Turkey](http://www.tcmb.gov.tr)
-            - [the Czech Republic](https://www.cnb.cz)
+            - [Czech Republic](https://www.cnb.cz)
+            - [Republic of Turkey](http://www.tcmb.gov.tr)
             - [Russia](https://cbr.ru)
         - National Bank of
-            - [Romania](http://www.bnr.ro)
             - [Bulgarian](http://bnb.bg)
+            - [Romania](http://www.bnr.ro)
         - [Fixer](https://fixer.io)
         - [currencylayer API](https://currencylayer.com)
             - [Laravel-5-Currency-Converter](https://libraries.io/github/blueskan/Laravel-5-Currency-Converter)
