@@ -13,7 +13,7 @@
 - [Laravel Currency Converter](https://danielmellum.com/projects/currency-converter)
     - JSON, JSONP Callbacks with [Laravel Swap](https://github.com/florianv/laravel-swap)
     - [Laravel Exchange Rates](https://github.com/noud/currency_converter)
-        - [European Central Bank (ECB)](https://www.ecb.europa.eu) [Exchange rates API](http://exchangeratesapi.io) returning [HTML](https://en.wikipedia.org/wiki/HTML)
+        - [European Central Bank (ECB)](https://www.ecb.europa.eu) [Exchange rates API](http://exchangeratesapi.io) payload [HTML](https://en.wikipedia.org/wiki/HTML)
         - Central Bank of
             - [Czech Republic](https://www.cnb.cz)
             - [Republic of Turkey](http://www.tcmb.gov.tr)
