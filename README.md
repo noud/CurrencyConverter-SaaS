@@ -1,4 +1,4 @@
-# 💱 CurrencyConverter [SaaS](https://en.wikipedia.org/wiki/Software_as_a_service)
+# 💱 Currency Converter [SPA](https://en.wikipedia.org/wiki/Single-page_application) [SaaS](https://en.wikipedia.org/wiki/Software_as_a_service) [API](https://en.wikipedia.org/wiki/Application_programming_interface)
 
 ![currency-converter](./docs/currency-converter.png?raw=true "currency-converter")
 
